@@ -1,0 +1,17 @@
+pandas
+geopandas
+requests
+pyyaml
+shapely
+scikit-learn
+srai
+py7zr
+seaborn
+fiona
+tqdm
+statsmodels
+xgboost
+matplotlib
+plotly
+kaleido
+adjustText

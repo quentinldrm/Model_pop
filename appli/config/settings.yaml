@@ -1,0 +1,4 @@
+# Configuration file for the project
+
+departement: "67" # Department
+maillage: 200 # Grid size in meters
