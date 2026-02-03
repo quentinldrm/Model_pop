@@ -1,7 +1,7 @@
 # Dynamic Population Mapping Model
 
 **Machine learning-based population distribution estimation**  
-_Master 1 OTG (Geomatics and Territorial Engineering) • University of Strasbourg • 2024-2025_
+_Master 1 OTG (Geomatics and Earth Obersvation) • University of Strasbourg • 2024-2025_
 
 ---
 
