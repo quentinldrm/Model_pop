@@ -1,5 +1,14 @@
 # Dynamic Population Mapping Model
 
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial_Analysis-139C5A?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-FLAME?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Data](https://img.shields.io/badge/Data-IGN_BD_Topo-green?style=flat-square)
+![Data](https://img.shields.io/badge/Data-INSEE_Sirene-blue?style=flat-square)
+![Data](https://img.shields.io/badge/Data-OpenStreetMap-77CDFF?style=flat-square&logo=openstreetmap&logoColor=black)
+
 **Machine learning-based population distribution estimation**  
 _Master 1 OTG (Geomatics and Earth Obersvation) • University of Strasbourg • 2024-2025_
 
